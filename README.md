@@ -40,3 +40,7 @@ cd gym-management-system
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
+<img width="6475" height="6392" alt="INVOICE Driven Client Flow-2026-02-06-142527" src="https://github.com/user-attachments/assets/a4b3ed32-173f-4673-9e3f-c61e0a91cb6e" />
+
+
