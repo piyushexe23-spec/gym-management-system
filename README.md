@@ -17,7 +17,7 @@ A web-based Gym Management System built using **Django** to help gym owners mana
 
 ## 🛠 Tech Stack
 - **Backend:** Django (Python)
-- **Frontend:** HTML, CSS, JavaScript,AJAX
+- **Frontend:** HTML, CSS, JavaScript,AJAX,Bootstrap
 - **Database:** SQLite
 - **Authentication:** Django Auth System
 
